@@ -1,0 +1,39 @@
+body
+{
+margin:0px;
+}
+.top
+{
+
+  background-color: grey;
+  width: 100%;
+  height: 5vh;
+  position: fixed;
+  top:0;
+}
+p
+{ padding-top: 7px;
+  padding-bottom:3px;
+   word-spacing: 13px;
+   margin-top: 0px;
+}
+.bg
+{
+  width:100%;
+  height:100vh;
+  background-image: url("natureresize.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+.middle
+{
+
+  padding: 5px 0px;
+  background-color: #751947;
+  text-align: center;
+}
+h1.middle
+{
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
